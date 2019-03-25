@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/aswartzell/GoVR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pickard Chilton GoVR is a Unity project which leverages UNet to create multiplayer VR experiences over an ad-hoc Wi-Fi network. It  has been tested successfully up to version 2018.2.14f of the Unity Editor.
 
 ### Markdown
 
